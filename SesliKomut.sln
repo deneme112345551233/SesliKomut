@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SesliKomut", "WindowsFormsApplication1\SesliKomut.csproj", "{C366045A-2A93-4011-900D-4E57375B77B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C366045A-2A93-4011-900D-4E57375B77B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C366045A-2A93-4011-900D-4E57375B77B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C366045A-2A93-4011-900D-4E57375B77B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C366045A-2A93-4011-900D-4E57375B77B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F6643C-150E-4DA7-8D36-516E1EA3DA4C}
+	EndGlobalSection
+EndGlobal
